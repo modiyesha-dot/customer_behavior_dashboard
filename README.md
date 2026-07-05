@@ -25,5 +25,4 @@ Yesha Modi
 
 ## Dashboard Screenshot
 
-![Customer Behavior Dashboard]
-(dashboard.png)
+![Customer Behavior Dashboard](dashboard.png)

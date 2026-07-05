@@ -22,3 +22,8 @@ This project analyzes customer shopping behavior using Python, SQL, and Power BI
 
 ## Author
 Yesha Modi
+
+## Dashboard Screenshot
+
+![Customer Behavior Dashboard]
+(dashboard.png)
